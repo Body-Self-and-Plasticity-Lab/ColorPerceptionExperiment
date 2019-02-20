@@ -1,0 +1,2 @@
+C:\Users\Marte\Desktop\Ricarda test temporal\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Marte\Desktop\Ricarda test temporal\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
