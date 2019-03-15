@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/GreenRoom.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/PinkRoom.unity
+    guid: 1efde8564b23c394392e75ee6af20168
+  - enabled: 1
+    path: Assets/Scenes/BlueRoom.unity
+    guid: e67f54e20ebaa48469f737e19073d3f5
   m_configObjects: {}
